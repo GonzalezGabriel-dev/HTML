@@ -161,3 +161,6 @@ footer{
     background-color: #19a49c;
     color: white;
 }
+#menu {
+    display: none;
+}
